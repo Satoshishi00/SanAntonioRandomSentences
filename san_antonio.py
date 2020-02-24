@@ -1,20 +1,6 @@
 import random
 import json
 
-quotes = [
-    "Ecoutez-moi, Monsieur Shakespeare, nous avons beau être ou ne pas être, nous sommes !",
-    "On doit pouvoir choisir entre s'écouter parler et se faire entendre."
-]
-
-characters = [
-    "alvin et les Chipmunks",
-    "Babar",
-    "betty boop",
-    "calimero",
-    "casper",
-    "le chat potté",
-    "Kirikou"
-]
 
 def message(character, quote):
     n_character = character.capitalize()
@@ -29,22 +15,22 @@ def get_random_item_in(my_list):
 
 def read_value_from_json(fileName, key):
     new_characters = []
-
+    # Get data in file
     with open(fileName, "r") as file:
         characters_dico = json.load(file)
-
+    # Add data in a list
     for item in characters_dico:
         new_characters.append(item[key])
 
     return new_characters
 
 def get_random_character():
-    all_characters = characters + read_value_from_json("characters.json", "character")
+    all_characters = read_value_from_json("characters.json", "character")
     rand_character = get_random_item_in(all_characters)
     return rand_character
 
 def get_random_quote():
-    all_quotes = quotes + read_value_from_json("quotes.json", "quote")
+    all_quotes = read_value_from_json("quotes.json", "quote")
     rand_quote = get_random_item_in(all_quotes)
     return rand_quote
 
