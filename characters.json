@@ -1,22 +1,274 @@
 [{
-        "character": "Riri"
+        "character": "Alice (Alice au pays des merveilles)"
     },
     {
-        "character": "Fifi"
+        "character": "Alice (Disney)"
     },
     {
-        "character": "Loulou"
+        "character": "Anna (Disney)"
     },
     {
-        "character": "Picsou"
+        "character": "Aurore (Disney)"
     },
     {
-        "character": "Donald"
+        "character": "Bambi (Disney)"
     },
     {
-        "character": "Dimbo"
+        "character": "Basile (Disney)"
     },
     {
-        "character": "Mickey"
+        "character": "Basile et Boniface"
+    },
+    {
+        "character": "Belle (Disney)"
+    },
+    {
+        "character": "La B\u00eate (Disney)"
+    },
+    {
+        "character": "Bibi Lapin"
+    },
+    {
+        "character": "Big Ben (Disney)"
+    },
+    {
+        "character": "Blanche-Neige (Disney)"
+    },
+    {
+        "character": "Bongo, roi du cirque"
+    },
+    {
+        "character": "Boniface (Disney)"
+    },
+    {
+        "character": "Bonkers D. Bobcat"
+    },
+    {
+        "character": "Caleb (WITCH)"
+    },
+    {
+        "character": "Capitaine Crochet (Disney)"
+    },
+    {
+        "character": "Casey Junior"
+    },
+    {
+        "character": "Cendrillon (Disney)"
+    },
+    {
+        "character": "Chapelier fou (Alice au pays des merveilles)"
+    },
+    {
+        "character": "Taranee Cook"
+    },
+    {
+        "character": "Jiminy Cricket"
+    },
+    {
+        "character": "Cruella d'Enfer"
+    },
+    {
+        "character": "Dingo (Disney)"
+    },
+    {
+        "character": "Duffy the Disney Bear"
+    },
+    {
+        "character": "Dumbo"
+    },
+    {
+        "character": "Elsa (Disney)"
+    },
+    {
+        "character": "La Esmeralda (personnage)"
+    },
+    {
+        "character": "F\u00e9e Clochette (Disney)"
+    },
+    {
+        "character": "Fleur (Disney)"
+    },
+    {
+        "character": "Phin\u00e9as Flynn"
+    },
+    {
+        "character": "Gaston (Disney)"
+    },
+    {
+        "character": "Benjamin Gates"
+    },
+    {
+        "character": "G\u00e9d\u00e9on (Disney)"
+    },
+    {
+        "character": "Geppetto (Disney)"
+    },
+    {
+        "character": "Gilbert (Disney)"
+    },
+    {
+        "character": "Giselle (Disney)"
+    },
+    {
+        "character": "Grand Coquin"
+    },
+    {
+        "character": "Grand Loup"
+    },
+    {
+        "character": "Cornelia Hale"
+    },
+    {
+        "character": "Hibou (Disney)"
+    },
+    {
+        "character": "Judy Hopps"
+    },
+    {
+        "character": "Jessica Rabbit"
+    },
+    {
+        "character": "Casey Jones (Disney)"
+    },
+    {
+        "character": "Julius (Disney)"
+    },
+    {
+        "character": "Irma Lair"
+    },
+    {
+        "character": "Li\u00e8vre de mars"
+    },
+    {
+        "character": "Hay Lin"
+    },
+    {
+        "character": "Yan Lin"
+    },
+    {
+        "character": "Liste des personnages de La Cour de r\u00e9cr\u00e9"
+    },
+    {
+        "character": "Lumi\u00e8re (Disney)"
+    },
+    {
+        "character": "Madame de Tr\u00e9maine"
+    },
+    {
+        "character": "Madame Samovar"
+    },
+    {
+        "character": "Mal\u00e9fique (Disney)"
+    },
+    {
+        "character": "Marianne (Disney)"
+    },
+    {
+        "character": "Maurice (Disney)"
+    },
+    {
+        "character": "Max (Dingo)"
+    },
+    {
+        "character": "Miroir magique (Disney)"
+    },
+    {
+        "character": "Monsieur Mouche (Disney)"
+    },
+    {
+        "character": "Mickey Mouse"
+    },
+    {
+        "character": "Mowgli (Disney)"
+    },
+    {
+        "character": "Mulan (Disney)"
+    },
+    {
+        "character": "N\u00e9rissa"
+    },
+    {
+        "character": "Nick Wilde"
+    },
+    {
+        "character": "Nicod\u00e8me (Disney)"
+    },
+    {
+        "character": "Oracle (W.I.T.C.H.)"
+    },
+    {
+        "character": "Oswald le lapin chanceux"
+    },
+    {
+        "character": "Panpan"
+    },
+    {
+        "character": "Pat Hibulaire Junior"
+    },
+    {
+        "character": "Peter Pan (Disney)"
+    },
+    {
+        "character": "Petit Jean (Disney)"
+    },
+    {
+        "character": "Pinocchio (Disney)"
+    },
+    {
+        "character": "Pocahontas (Disney)"
+    },
+    {
+        "character": "Elyon Portrait"
+    },
+    {
+        "character": "Raiponce (Disney)"
+    },
+    {
+        "character": "Reine de c\u0153ur (Alice au pays des merveilles)"
+    },
+    {
+        "character": "La Reine de c\u0153ur (Disney)"
+    },
+    {
+        "character": "Reine-sorci\u00e8re"
+    },
+    {
+        "character": "Flynn Rider"
+    },
+    {
+        "character": "Robin des Bois (Disney)"
+    },
+    {
+        "character": "Roger Rabbit"
+    },
+    {
+        "character": "Roi Louie"
+    },
+    {
+        "character": "Scamp"
+    },
+    {
+        "character": "Sept nains (Disney)"
+    },
+    {
+        "character": "Jack Skellington"
+    },
+    {
+        "character": "Tiana (Disney)"
+    },
+    {
+        "character": "Tick Tock Croc"
+    },
+    {
+        "character": "Les Trois Petits Cochons (film)"
+    },
+    {
+        "character": "Will Vandom"
+    },
+    {
+        "character": "Wendy Darling (Disney)"
+    },
+    {
+        "character": "Yensid"
     }
 ]
